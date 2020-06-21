@@ -1,0 +1,2 @@
+# Twitter-Sentimental-Analysis-using-Python
+In twitter sentimental analysis, our main aim of the project is to extract features of tweets and analyses the tweets opinion for Several famous US Airlines. We are analyzing the sentiments based on polarity of a given text in a sentence or document or feature/aspect level. When given a text text is inputted, it searches for the tweet related to that input text and checks whether the expressed opinion in extracted text is positive or negative or neutral. To Identify the reasons for negative Tweets for different Airlines.
